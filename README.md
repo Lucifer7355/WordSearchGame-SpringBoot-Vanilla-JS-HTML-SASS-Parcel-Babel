@@ -1,5 +1,14 @@
 # WordSearchGame-SpringBoot-Vanilla-JS-HTML-SASS-Parcel-Babel
 
+# Demonstration :-
+Word-Search game UI
+
+![word search game UI](https://github.com/Lucifer7355/WordSearchGame-SpringBoot-Vanilla-JS-HTML-SASS-Parcel-Babel/blob/main/demonstration_picture/Screenshot%20(268).png)
+
+A backend REST-API call is made after clicking on generate grid and response obtained is parsed as grid in UI.
+
+![A backend REST-API call is made after clicking on generate grid and response obtained is parsed as grid in UI.](https://github.com/Lucifer7355/WordSearchGame-SpringBoot-Vanilla-JS-HTML-SASS-Parcel-Babel/blob/main/demonstration_picture/Screenshot%20(270).png)
+
 # Wordgrid Backend-Service(SpringBoot):
  
 Given Some words and grid size, We have to generate a boggle grid and return to front end after serializing the result as String.
